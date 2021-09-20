@@ -1,0 +1,6 @@
+module Pods_ReactSnippet {
+  umbrella header "Pods-ReactSnippet-umbrella.h"
+
+  export *
+  module * { export * }
+}
